@@ -1,0 +1,147 @@
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\bin\Debug\Quizzie.exe.config
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\bin\Debug\Quizzie.exe
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\bin\Debug\Quizzie.pdb
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\bin\Debug\MetroFramework.Design.dll
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\bin\Debug\MetroFramework.dll
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\bin\Debug\MetroFramework.Fonts.dll
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.Properties.Resources.resources
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.GenerateResource.cache
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CoreCompileInputs.cache
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CopyComplete
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.exe
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.pdb
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.csprojAssemblyReference.cache
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.logInSceen.resources
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.modeScreen.resources
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.easyMode.resources
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.hardMode.resources
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.leaderBoard.resources
+D:\Study\Subject_Files\Nam-2_Ki_2\Lập trình mạng\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.endGame.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\bin\Debug\Quizzie.exe.config
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\bin\Debug\Quizzie.exe
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\bin\Debug\Quizzie.pdb
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.easyMode.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.endGame.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.hardMode.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.leaderBoard.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.modeScreen.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.resultScreen.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CopyComplete
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.exe
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.pdb
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.csprojAssemblyReference.cache
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.easyMode.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.endGame.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.hardMode.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.leaderBoard.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.modeScreen.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.Properties.Resources.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.QuizzieSC.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.resultScreen.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.GenerateResource.cache
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CoreCompileInputs.cache
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.exe
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.pdb
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\bin\Debug\Quizzie.exe.config
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\bin\Debug\Quizzie.exe
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\bin\Debug\Quizzie.pdb
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\bin\Debug\MetroFramework.Design.dll
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\bin\Debug\MetroFramework.dll
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\bin\Debug\MetroFramework.Fonts.dll
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CopyComplete
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.LoginScreen.resources
+D:\HK4 2020-2021\LTM - NT106.K21\Quizzie\Quizzie\obj\Debug\Quizzie.Server.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.LoginScreen.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.QuizzieSC.resources
+C:\Users\Administrator\Desktop\c#\Quizzie\Quizzie\Quizzie\obj\Debug\Quizzie.Server.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\bin\Debug\Quizzie.exe.config
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\bin\Debug\Quizzie.exe
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\bin\Debug\Quizzie.pdb
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\bin\Debug\MetroFramework.Design.dll
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\bin\Debug\MetroFramework.dll
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.csprojAssemblyReference.cache
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.easyMode.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.endGame.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.hardMode.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.leaderBoard.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.LoginScreen.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.modeScreen.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.Properties.Resources.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.QuizzieSC.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.Server.resources
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.csproj.GenerateResource.cache
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.csproj.CoreCompileInputs.cache
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.csproj.CopyComplete
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.exe
+C:\Users\nqtru\Desktop\Quizzie[ZaloPC_Folder]\Quizzie\obj\Debug\Quizzie.pdb
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\bin\Debug\Quizzie.exe.config
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\bin\Debug\Quizzie.exe
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\bin\Debug\Quizzie.pdb
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\bin\Debug\MetroFramework.Design.dll
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\bin\Debug\MetroFramework.dll
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.csprojAssemblyReference.cache
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.easyMode.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.endGame.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.hardMode.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.leaderBoard.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.LoginScreen.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.modeScreen.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.Properties.Resources.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.QuizzieSC.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.Server.resources
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.GenerateResource.cache
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CoreCompileInputs.cache
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CopyComplete
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.exe
+C:\Users\nqtru\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.pdb
+D:\Quizzie\Quizzie\bin\Debug\Quizzie.exe.config
+D:\Quizzie\Quizzie\bin\Debug\Quizzie.exe
+D:\Quizzie\Quizzie\bin\Debug\Quizzie.pdb
+D:\Quizzie\Quizzie\bin\Debug\MetroFramework.Design.dll
+D:\Quizzie\Quizzie\bin\Debug\MetroFramework.dll
+D:\Quizzie\Quizzie\bin\Debug\MetroFramework.Fonts.dll
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.csprojAssemblyReference.cache
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.easyMode.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.endGame.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.hardMode.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.leaderBoard.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.LoginScreen.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.modeScreen.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.Properties.Resources.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.QuizzieSC.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.Server.resources
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.GenerateResource.cache
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CoreCompileInputs.cache
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CopyComplete
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.exe
+D:\Quizzie\Quizzie\obj\Debug\Quizzie.pdb
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\bin\Debug\Quizzie.exe.config
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\bin\Debug\Quizzie.exe
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\bin\Debug\Quizzie.pdb
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.easyMode.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.endGame.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.hardMode.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.leaderBoard.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.LoginScreen.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.modeScreen.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.QuizzieSC.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.Server.resources
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.exe
+C:\Users\Administrator\Desktop\Quizzie\Quizzie\obj\Debug\Quizzie.pdb
